@@ -12,9 +12,6 @@
 
   <h3 align="center">Remote ATU T-match</h3>
   <p align="center">  
-  <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target="_blank">
-    <img src="images/logo.png" alt="Project Home" width="80" height="80">
-  </a>
 
   <p align="center">
     T-match remote ATU based on ESP32 / ADS1115 / AD8310 with TCI (ESDR) integration and MQTT control. <br />
@@ -22,6 +19,8 @@
     <a href="https://github.com/VK6NX/Remote_ATU/issues">Report Bug</a>
     ·
     <a href="https://github.com/VK6NX/Remote_ATU/issues">Request Feature</a>
+    ·
+    <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target="_blank">Project Home</a>
   </p>
 </p>
   
