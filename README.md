@@ -153,7 +153,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the [[`BSD LICENSE`]][license-url].
+Distributed under the [`BSD LICENSE`][license-url].
 
 
 
