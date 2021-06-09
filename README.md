@@ -9,16 +9,16 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+
   
 
   <h3 align="center">Remote ATU T-match</h3>
-  
-  <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target=_blanc>
-    <img src="images/logo.png" alt="Project Home" width="80" height="80">
-  </a>
-
+    <p align="center">  
+      <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target=_blanc>
+      <img src="images/logo.png" alt="Project Home" width="80" height="80">
+      </a>
   <p align="center">
+    
     project_description
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
