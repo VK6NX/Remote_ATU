@@ -17,7 +17,7 @@
   </a>
 
   <p align="center">
-    T-match ATU based on 'ESP32 / ADS1115 / AD8310' with TCI (ESDR) integration and MQTT control. <br />
+    T-match ATU based on ESP32 / ADS1115 / AD8310 with TCI (ESDR) integration and MQTT control. <br />
     Code supports T and L-match configurations based on 8x8x8 (relays) design and variable coil based T-match designs.<br />
     Device control (i.e. ATU type selection, tuning algorithm selection TX/VFO selection, etc.) is performed via ATU connect application.
     <br />
@@ -148,11 +148,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
+* [TCI protocol](https://github.com/maksimus1210/TCI)
+* [ESP32 Firmware V0.8](https://github.com/VK6NX/RemoteATU-T-match/tree/main/ATU_universal_v0.8.6)
+* [ESP32 Firmware V2](https://github.com/dkaukov/ratu-v2-esp32-firmware)
+* [TCI-MQTT Gateway](https://github.com/dkaukov/tci-mqtt-gateway/releases/tag/v.0.1)
+* [Tandem calibration](https://github.com/dkaukov/log-power-meter)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-* []()
-* []()
-
 
 
 
