@@ -10,11 +10,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/VK6NX/Remote_ATU" target=_blanc>
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  
 
   <h3 align="center">Remote ATU T-match</h3>
+  
+  <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target=_blanc>
+    <img src="images/logo.png" alt="Project Home" width="80" height="80">
+  </a>
 
   <p align="center">
     project_description
