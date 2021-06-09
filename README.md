@@ -11,28 +11,29 @@
 <br />
 
   
-
-  <h3 align="center">Remote ATU T-match</h3>
-    <p align="center">  
-      <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target=_blanc>
-      <img src="images/logo.png" alt="Project Home" width="80" height="80">
-      </a>
   <p align="center">
-    
-    project_description
+  
+
+  <h3 align="center">Remote ATU T-match<</h3>
+  
+  <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target=_blanc>
+    <img src="images/logo.png" alt="Project Home" width="80" height="80">
+  </a>
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
-
-
+  
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
