@@ -17,7 +17,7 @@
   </a>
 
   <p align="center">
-    T-match ATU based on ESP32/ADS1115 with TCI (ESDR) integration and MQTT control. <br />
+    T-match ATU based on ESP32/ADS1115/AD8310 with TCI (ESDR) integration and MQTT control. <br />
     Code supports T and L-match configurations based on 8x8x8 (relays) design and variable coil based T-match designs.<br />
     Device control (i.e. ATU type selection, tuning algorithm selection TX/VFO selection, etc.) is performed via ATU connect application.
     <br />
