@@ -65,10 +65,9 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* [Qt](https://www.qt.io/)
+* [PlatformIO](https://platformio.org/)
+* [ESP32](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf)
 
 
 <!-- GETTING STARTED -->
@@ -166,5 +165,3 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-url]: https://github.com/github_username/repo/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
 [license-url]: https://github.com/VK6NX/Remote_ATU/blob/main/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
