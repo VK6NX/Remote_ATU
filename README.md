@@ -17,16 +17,12 @@
   </a>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    T-match ATU based on ESP32/ADS1115 with TCI (ESDR) integration and MQTT control. Code supports T and L-match configurations based on 8x8x8 (relays) design and variable coil based T-match designs. Device control (i.e. ATU type selection, tuning algorithm selection TX/VFO selection, etc.) is performed via ATU connect application.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/VK6NX/Remote_ATU/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/VK6NX/Remote_ATU/issues">Request Feature</a>
   </p>
 </p>
   
