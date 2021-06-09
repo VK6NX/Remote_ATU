@@ -10,12 +10,8 @@
 <!-- PROJECT LOGO -->
 <br />
 
-  
-  <p align="center">
-  
-
   <h3 align="center">Remote ATU T-match<</h3>
-  
+  <p align="center">  
   <a href="https://vk6nx.net/RATU_T_v0.5-en.html">
     <img src="images/logo.png" alt="Project Home" width="80" height="80">
   </a>
