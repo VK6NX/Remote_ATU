@@ -147,7 +147,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * [ESP32 Firmware V0.8](https://github.com/VK6NX/RemoteATU-T-match/tree/main/ATU_universal_v0.8.6)
 * [ESP32 Firmware V2](https://github.com/dkaukov/ratu-v2-esp32-firmware)
 * [TCI-MQTT Gateway](https://github.com/dkaukov/tci-mqtt-gateway/releases/tag/v.0.1)
-* [Tandem calibration](https://github.com/dkaukov/log-power-meter)
+* [Tandem calibration Tool](https://github.com/dkaukov/log-power-meter)
+* [Eclipse Mosquitto](https://mosquitto.org/)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 
