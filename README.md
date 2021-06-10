@@ -70,8 +70,8 @@ Remote ATU can be used either in remote mode (mounted on mast directly connected
 * 5V operations.
 
 ####  Changes in current hardware verisoon
-* CAN bus module embeddeed (software development is in progress).
-* ESP32D (30-pin) and ESP32U (38-pin) dev boards are supported. 
+** CAN bus module embeddeed (software development is in progress).
+** ESP32D (30-pin) and ESP32U (38-pin) dev boards are supported. 
      
 More detais please see at <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target="_blank">Project Home</a>
 
