@@ -69,11 +69,12 @@ Remote ATU can be used either in remote mode (mounted on mast directly connected
 * WiFi (primaty communication media) and CAN wire (in development).
 * 5V operations.
 
+More detais please see at <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target="_blank">Project Home</a><br />
+
 ####  Changes in current hardware verisoon
-** CAN bus module embeddeed (software development is in progress).
+** CAN bus module embeddeed (software development is in progress).<br />
 ** ESP32D (30-pin) and ESP32U (38-pin) dev boards are supported. 
      
-More detais please see at <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target="_blank">Project Home</a>
 
 ### Built With
 
