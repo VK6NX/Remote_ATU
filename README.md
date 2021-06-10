@@ -15,6 +15,7 @@
 
   <p align="center">
     T-match remote ATU based on ESP32 / ADS1115 / AD8310 with TCI (ESDR) integration and MQTT control. <br />
+    Hardware version 1.06<br />
     <br />
     <a href="https://github.com/VK6NX/Remote_ATU/issues">Report Bug</a>
     ·
@@ -65,17 +66,19 @@ Remote ATU can be used either in remote mode (mounted on mast directly connected
 * Unlimited ATU type presets and Antenna presets (unlimited).
 * "Follow VFO" function (TCI-based) allows automated selection of antenna preset while moving the operational frequency.
 * Automated tuning mode and Manual tuning mode.
-* WiFi (as primaty communication media) and CAN wire media(in development).
+* WiFi (primaty communication media) and CAN wire (in development).
 * 5V operations.
+
+####  Changes in current hardware verisoon
+* CAN bus module embeddeed (software development is in progress).
+* ESP32D (30-pin) and ESP32U (38-pin) dev boards are supported. 
      
-More detais please see <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target="_blank">Project Home</a>
+More detais please see at <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target="_blank">Project Home</a>
 
 ### Built With
 
 * [Qt](https://www.qt.io/)
 * [PlatformIO](https://platformio.org/)
-* [ESP32](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf)
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
