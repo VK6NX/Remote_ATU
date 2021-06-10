@@ -59,14 +59,14 @@
 Remote ATU can be used either in remote mode (mounted on mast directly connected to Antenna input) or in common mode (at transceiver end).<br />
 
 <b> Features highlights</b><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> Capability of T-match and 2x L-match configurations within same device. It either operates in classic T-match C1-L-C2 mode, or C1-L, or L-C2 mode.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> Multi-algorithm: each described above mode operates via two different tuning algorithms.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> From 0.01W to 200W tuning power and from 0.01W to 2KW operational power. 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> Unlimited ATU type presets and Antenna presets (unlimited).
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> "Follow VFO" function (TCI-based) allows automated selection of antenna preset while moving the operational frequency.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> Automated tuning mode and Manual tuning mode.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> WiFi (as primaty communication media) and CAN wire media(in development).
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li> 5V operations.
+* <li> Capability of T-match and 2x L-match configurations within same device. It either operates in classic T-match C1-L-C2 mode, or C1-L, or L-C2 mode.
+* Multi-algorithm: each described above mode operates via two different tuning algorithms.
+* From 0.01W to 200W tuning power and from 0.01W to 2KW operational power. 
+* Unlimited ATU type presets and Antenna presets (unlimited).
+* "Follow VFO" function (TCI-based) allows automated selection of antenna preset while moving the operational frequency.
+* Automated tuning mode and Manual tuning mode.
+* WiFi (as primaty communication media) and CAN wire media(in development).
+* 5V operations.
      
 <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target="_blank">Project Home</a>
 Here's a blank template to get started:
