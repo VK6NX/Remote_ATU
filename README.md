@@ -58,8 +58,8 @@
 
 Remote ATU can be used either in remote mode (mounted on mast directly connected to Antenna input) or in common mode (at transceiver end).<br />
 
-<b> Features highlights</b><br />
-* <li> Capability of T-match and 2x L-match configurations within same device. It either operates in classic T-match C1-L-C2 mode, or C1-L, or L-C2 mode.
+###  Features highlights
+* Capability of T-match and 2x L-match configurations within same device. It either operates in classic T-match C1-L-C2 mode, or C1-L, or L-C2 mode.
 * Multi-algorithm: each described above mode operates via two different tuning algorithms.
 * From 0.01W to 200W tuning power and from 0.01W to 2KW operational power. 
 * Unlimited ATU type presets and Antenna presets (unlimited).
@@ -68,11 +68,7 @@ Remote ATU can be used either in remote mode (mounted on mast directly connected
 * WiFi (as primaty communication media) and CAN wire media(in development).
 * 5V operations.
      
-<a href="https://vk6nx.net/RATU_T_v0.5-en.html" target="_blank">Project Home</a>
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+More detais please see <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target="_blank">Project Home</a>
 
 ### Built With
 
