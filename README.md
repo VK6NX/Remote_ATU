@@ -85,15 +85,27 @@ More detais please see at <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target
 ## Getting Started
 
 To get a project running in your environment follow these simple steps:
-1. Download and install * [MQTT](https://mosquitto.org/) for your OS.
+1. Read [Project description](https://vk6nx.net/RATU_T_v0.5-en.html) to understand the components, requirements and to map the expectations.
+2. Download and install [MQTT](https://mosquitto.org/) for your OS.
+3. Download [TCI-MQTT-Gateway](https://github.com/dkaukov/tci-mqtt-gateway/releases/tag/v.0.1) for your OS.
+4. Download [ESP32 firmware](https://github.com/dkaukov/ratu-v2-esp32-firmware). Make sure you understand and verify supported platforms. Please note that ESP32 firmware is currently mapped to ATU HW version 0.4. There are minimaladjustments required to remap is to HW version 0.5. Either remap it yourself or requiest update via Issues. 
+5. Download [ATUconnect for Windows](https://mega.nz/file/rZ52UKoS#Yd4YlUi8J-FDt0VwyPb2aQxXN920G49z77tg9XmMaF0) or [ATUconnect for macOS]()
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+* SunSDR2, SunSDR2 Pro or SunSDR DX
+* ATU 8x8x8 based on printed boards as described in [Project description](https://vk6nx.net/RATU_T_v0.5-en.html).
+
+<b>if you are going to use pre-build binaries</b>, then the only needed tools will be any IDE which can handle loading ESP32 firmware. For this project it is recommended to use Visual Studio Code (either OS) with PlatformIO to load firmware to ESP32. All nesessary libraries are linked in ini file.
+
+<b>If you are going to be using source codes</b>, the obvious set of tools will be required, such as
+* git
+* node.js
 * npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* VSC
+* PlatformIO
+
+Dependend on the OS and environment you may also need Python, Perl, Xcode and other tools.
 
 ### Installation
 
