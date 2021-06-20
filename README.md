@@ -77,6 +77,7 @@ More detais please see at <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target
 
 * [Qt](https://www.qt.io/)
 * [PlatformIO](https://platformio.org/)
+* [VSC](https://code.visualstudio.com/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
