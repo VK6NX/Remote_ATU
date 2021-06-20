@@ -84,7 +84,8 @@ More detais please see at <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a project running in your environment follow these simple steps:
+1. Download and install * [MQTT](https://mosquitto.org/) for your OS.
 
 ### Prerequisites
 
