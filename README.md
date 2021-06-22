@@ -71,13 +71,6 @@ More detais please see at <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target
 ####  Changes in current hardware verisoon
 ** CAN bus module embeddeed (software development is in progress).<br />
 ** ESP32D (30-pin) and ESP32U (38-pin) dev boards are supported. 
-     
-
-### Built With
-
-* [Qt](https://www.qt.io/)
-* [PlatformIO](https://platformio.org/)
-* [VSC](https://code.visualstudio.com/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
