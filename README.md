@@ -38,6 +38,12 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
+      <ul>
+        <li><a href="#Using project with binaries">Using project with binaries</a></li>
+      </ul>
+      <ul>
+        <li><a href="#Using project with build from source">Using project with build from source</a></li>
+      </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
