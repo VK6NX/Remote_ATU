@@ -39,7 +39,7 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
       <ul>
-        <li><a href="#using-project-with-binaries">Using project with binaries</a></li>
+        <li><a href="#using-project-with-binaries">Using project with binaries (recommended)</a></li>
       </ul>
       <ul>
         <li><a href="#using-project-with-build-from-source">Using project with build from source</a></li>
@@ -92,7 +92,7 @@ To get a project running in your environment follow these simple steps:
 * ATU 8x8x8 based on printed boards as described in [Project home](https://vk6nx.net/RATU_T_v0.5-en.html).
 
 ### Using project with binaries 
-if you are going to use pre-build binaries, then the only needed tools will be any IDE which can handle loading ESP32 firmware. For this project it is recommended to use Visual Studio Code (either OS) with PlatformIO to load firmware to ESP32. All nesessary libraries are linked in ini file.
+This is the recommended way for most users, who are not familliar (or just started) with programming. It requires minimum interference with the code. Whie using this approach, the only needed tools will be any IDE which can handle loading ESP32 firmware. For this project it is recommended to use Visual Studio Code (either OS) with PlatformIO to load firmware to ESP32. All nesessary libraries are linked in ini file.
 
 MQTT, TCI-MQTT-Gateway and ATUconnect are recommended to run on a same PC with ESDR2/3.
 
