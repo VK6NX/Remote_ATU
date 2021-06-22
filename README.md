@@ -87,7 +87,8 @@ To get a project running in your environment follow these simple steps:
 2. Download and install [MQTT](https://mosquitto.org/) for your OS.
 3. Download [TCI-MQTT-Gateway](https://github.com/dkaukov/tci-mqtt-gateway/releases/tag/v.0.1) for your OS.
 4. Download [ESP32 firmware](https://github.com/dkaukov/ratu-v2-esp32-firmware). Make sure you understand and verify supported platforms. Please note that ESP32 firmware is currently mapped to ATU HW version 0.4. There are minimaladjustments required to remap is to HW version 0.5. Either remap it yourself or requiest update via Issues. 
-5. Download [ATUconnect for macOS](https://mega.nz/file/yBx13K5Y#tBbAfUoyLWk4kNJXm96MKQzaUcxuMHGairCRVFzlkgs) (tested on 10.15.7) or [ATUconnect for Windows](TBA) (tested on Win10 x64)
+5. Download [ATUconnect for macOS](https://mega.nz/file/yBx13K5Y#tBbAfUoyLWk4kNJXm96MKQzaUcxuMHGairCRVFzlkgs) (tested on 10.15.7) or [ATUconnect for Windows](https://mega.nz/file/vAgyDBAS#2wv1d2AfN-vfjV7i0eCdowJ2e-1jZt2NGiQugIcPx9M) (tested on Win10 x64). 
+***Please note that at this stage Windows application is supplied as standalone folder. To use it unzip and run .exe file from the folder. 
 
 ### Prerequisites
 
