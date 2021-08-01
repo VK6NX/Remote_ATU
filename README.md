@@ -63,7 +63,7 @@ Remote ATU can be used either in remote mode (mounted on mast directly connected
 * Capability of T-match and 2x L-match configurations within same device. It either operates in classic T-match C1-L-C2 mode, or C1-L, or L-C2 mode.
 * Multi-algorithm: each described above mode operates via two different tuning algorithms.
 * From 0.01W to 200W tuning power and from 0.01W to 2KW operational power. 
-* Unlimited ATU type presets and Antenna presets (unlimited).
+* Unlimited ATU type presets and Antenna presets.
 * "Follow VFO" function (TCI-based) allows automated selection of antenna preset while moving the operational frequency.
 * Automated tuning mode and Manual tuning mode.
 * WiFi (primaty communication media) and CAN wire (in development).
