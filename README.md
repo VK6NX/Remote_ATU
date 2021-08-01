@@ -59,6 +59,8 @@
 
 Remote ATU can be used either in remote mode (mounted on mast directly connected to Antenna input) or in common mode (at transceiver end).<br />
 
+Please note that current version fully supports ExpertSDR2. In ExpertSDR3 alpha some features may not work correctly - this is due to current state of TCI protocol (it is WIP and some features are partially or not yet integrated). Please also note, that ExpertSDR2 support will be discontnued as soon as ExpertSDR3 is released by EE.
+
 ###  Features highlights
 * Capability of T-match and 2x L-match configurations within same device. It either operates in classic T-match C1-L-C2 mode, or C1-L, or L-C2 mode.
 * Multi-algorithm: each described above mode operates via two different tuning algorithms.
