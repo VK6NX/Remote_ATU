@@ -71,7 +71,7 @@ Please note that current version fully supports ExpertSDR2. In ExpertSDR3 alpha 
 * WiFi (primaty communication media) and CAN wire (in development).
 * 5V operations.
 
-More detais please see at <a href="https://vk6nx.net/RATU_T_v0.5-en.html" target="_blank">Project Home</a><br />
+More detais please see at <a href="https://vk6nx.net/06_projects.html" target="_blank">Project Home</a><br />
 
 ####  Changes in current hardware verisoon
 ** CAN bus module embeddeed (software development is in progress).<br />
