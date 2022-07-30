@@ -14,7 +14,7 @@
   <p align="center">  
 
   <p align="center">
-    T-match remote ATU based on ESP32 / ADS1115 / AD8310 with TCI (ESDR) integration and MQTT control. <br />
+    T-match remote ATU based on ESP32 / ADS1115 / AD8310 with TCI1.8+ (ESDR3) integration and MQTT control. <br />
     Current ATU Hardware version 1.0<br />
     <br />
     <a href="https://github.com/VK6NX/Remote_ATU/issues">Report Bug</a>
