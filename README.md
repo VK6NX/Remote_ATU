@@ -92,7 +92,7 @@ To get a project running in your environment follow these simple steps:
 ### Prerequisites
 
 * SunSDR2, SunSDR2 Pro or SunSDR DX
-* ATU 8x8x8 (Relay-based) on printed boards or Variable coil/capacitors as described in [Project home](https://vk6nx.net/06_projects.html).
+* ATU hardware is either 8x8x8 (Relay-based), or Variable coil/capacitors as described in [Project home](https://vk6nx.net/06_projects.html).
 
 ### Using project with binaries 
 This is the recommended way for most users, who are not familliar (or just started) with programming. It requires minimum interference with the code. Whie using this approach, the only needed tools will be any IDE which can handle loading ESP32 firmware. For this project it is recommended to use Visual Studio Code (either OS) with PlatformIO to load firmware to ESP32. All nesessary libraries are linked in ini file.
@@ -127,8 +127,7 @@ Distributed under the [`BSD LICENSE`][license-url].
 <!-- CONTACT -->
 ## Contact
 
-Use [QRZ.com](https://www.qrz.com/) contact details.
-Alternatively you may ask questions in the following thread at [EE forum ](https://eesdr.com/en/forum-en/remote-control/8674-remote-atu-w-tci)
+Follow up with questions in the thread at [EE forum ](https://eesdr.com/en/forum-en/remote-control/8674-remote-atu-w-tci)
 
 
 <!-- ACKNOWLEDGEMENTS -->
