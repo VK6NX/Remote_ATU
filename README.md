@@ -92,7 +92,7 @@ To get a project running in your environment follow these simple steps:
 ### Prerequisites
 
 * SunSDR2, SunSDR2 Pro or SunSDR DX
-* ATU 8x8x8 based on printed boards as described in [Project home](https://vk6nx.net/06_projects.html).
+* ATU 8x8x8 (Relay-based) on printed boards or Variable coil/capacitors as described in [Project home](https://vk6nx.net/06_projects.html).
 
 ### Using project with binaries 
 This is the recommended way for most users, who are not familliar (or just started) with programming. It requires minimum interference with the code. Whie using this approach, the only needed tools will be any IDE which can handle loading ESP32 firmware. For this project it is recommended to use Visual Studio Code (either OS) with PlatformIO to load firmware to ESP32. All nesessary libraries are linked in ini file.
